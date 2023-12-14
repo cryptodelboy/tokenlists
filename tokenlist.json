@@ -241,7 +241,16 @@
       "symbol": "USDC",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xfa9343c3897324496a05fc75abed6bac29f8a40f/logo.png"
-    }
+    },
+        {
+      "chainId": 2222,
+      "address": "0xb9228f75facb15cd23f04c44850dc0cb51863a30",
+      "decimals": 18,
+      "name": "TUCKER",
+      "symbol": "TUCK",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0xb9228f75facb15cd23f04c44850dc0cb51863a30/logo.png"
+    },
   ],
   "timestamp": "2023-11-01T12:02:07.562Z"
 }
